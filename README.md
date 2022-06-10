@@ -9,6 +9,8 @@ Hello, to the people who are viewing this you have seen this url on the official
 
 
 
+# Use Dnspy to see all the decompiled code
+
 
 
 Don't buy this....
